@@ -94,7 +94,7 @@ Email header analysis provides the primary detection mechanism for spoofing atte
 
 **Access Credentials:**
 - **Username:** emmanuel.toller@commensuratetechnology.com
-- **Password:** t0tallySecre7?
+- **Password:** ********
 
 **Email Header Extraction Procedure:**
 
